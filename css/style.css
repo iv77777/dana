@@ -379,6 +379,10 @@ body._lock-scrol {
   font-size: 1.125rem;
 }
 
+.top-page__text p {
+  margin-bottom: 0.625rem;
+}
+
 .top-page__img-inner {
   width: 100%;
   display: -webkit-box;
@@ -427,10 +431,6 @@ body._lock-scrol {
 
 .questions__spoller-text {
   margin-bottom: 50px;
-}
-
-.questions__spoller-text p {
-  margin-bottom: 0.625rem;
 }
 
 .questions__contacts {
