@@ -564,6 +564,14 @@ body._lock-scrol {
   margin-bottom: 1.25rem;
 }
 
+.unselectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
 .fon-img {
   position: absolute;
   top: 0;
